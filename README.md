@@ -1,16 +1,37 @@
-## Hi there 👋
+# My projects
 
-<!--
-**rchastain2/rchastain2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Basic
 
-Here are some ideas to get you started:
+## C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Chess (and other board games)
+
+- [Sachy](https://codeberg.org/rchastain/sachy)
+- [Vanilla Chess](https://talkchess.com/viewtopic.php?t=78988)
+- [WinBoard protocol driver](https://codeberg.org/rchastain/winboard-protocol-driver)
+- [xdames](https://codeberg.org/rchastain/xdames)
+
+### Games
+
+- [Velena (Connect Four)](https://codeberg.org/rchastain/velena)
+
+## LaTeX
+
+## Lua
+
+### Chess
+
+- [LÖVE Chessboard](https://codeberg.org/rchastain/love-chessboard)
+- [Luciole](https://codeberg.org/rchastain/luciole)
+
+## Pascal
+
+### Chess
+
+- [CookieCat](https://codeberg.org/rchastain/cookiecat )
+- [Feuerstein multiplatform](https://codeberg.org/rchastain/feuerstein)
+- [Moustique (JSSchach)](https://codeberg.org/rchastain/moustique)
+
+### Games
+
+- [Velena (Connect Four)](https://codeberg.org/rchastain/velena)
