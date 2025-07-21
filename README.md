@@ -82,6 +82,7 @@ All my programming projects, categorized by language and topic.
 ### Mathematics
 
 - [Bouncing balls](https://gitlab.com/rchastain/collisions)
+- [Cairo examples](https://github.com/rchastain2/cairo-examples)
 - [Easter date](https://codeberg.org/rchastain/easter-date)
 - [Échecs aléatoires de Fischer](https://codeberg.org/rchastain/echecs-aleatoires-fischer)
 - [Fleur de lys](https://codeberg.org/rchastain/fleur-de-lys)
