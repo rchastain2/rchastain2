@@ -1,6 +1,6 @@
 # My projects
 
-All my programming projects, categorized by language and topic.
+My programming projects, categorized by language and topic.
 
 ## Basic
 
@@ -77,7 +77,7 @@ All my programming projects, categorized by language and topic.
 - [Ghost Invasion](https://gitlab.com/rchastain/ghost-invasion)
 - [Snake ptcGraph](https://codeberg.org/rchastain/snake-ptcgraph)
 - [SplashKit examples](https://gitlab.com/rchastain/splashkit-pascal-examples)
-- [SwinGame examples](https://gitlab.com/rchastain/swingame-pascal-examples)
+- [SwinGame examples](https://github.com/rchastain2/swingame-pascal-examples)
 
 ### Mathematics
 
