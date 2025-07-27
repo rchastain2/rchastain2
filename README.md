@@ -98,3 +98,4 @@ My programming projects, categorized by language and topic.
 
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf)
 - [QBasic music to MIDI file](https://gitlab.com/rchastain/qbasic-music-to-midi-file)
+- [SDL2 Music Player](https://codeberg.org/rchastain/sdl2-musicplayer)
