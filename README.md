@@ -38,6 +38,7 @@ My programming projects, categorized by language and topic.
 ### Other
 
 - [Littré](https://codeberg.org/rchastain/littre)
+- [miniaudio Music Player](https://codeberg.org/rchastain/miniaudio-music-player)
 
 ## LaTeX
 
@@ -94,7 +95,7 @@ My programming projects, categorized by language and topic.
 - [MSEgui examples](https://codeberg.org/rchastain/msegui-examples)
 - [MSEgui studies](https://codeberg.org/rchastain/msegui-studies)
 
-### Tools
+### Other
 
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf)
 - [QBasic music to MIDI file](https://gitlab.com/rchastain/qbasic-music-to-midi-file)
