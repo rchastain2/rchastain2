@@ -35,7 +35,7 @@ My programming projects, categorized by language and topic.
 - [Easter date](https://codeberg.org/rchastain/easter-date)
 - [Theodorus spiral](https://codeberg.org/rchastain/theodorus-spiral-c)
 
-### Other
+### Utilities
 
 - [Littré](https://codeberg.org/rchastain/littre)
 - [miniaudio Music Player](https://codeberg.org/rchastain/miniaudio-music-player)
@@ -55,6 +55,10 @@ My programming projects, categorized by language and topic.
 ### Mathematics
 
 - [Easter date](https://codeberg.org/rchastain/easter-date)
+
+### Utilities
+
+- [Pascal Code Cleaner](https://codeberg.org/rchastain/pcc-lua)
 
 ## Pascal
 
@@ -95,8 +99,9 @@ My programming projects, categorized by language and topic.
 - [MSEgui examples](https://codeberg.org/rchastain/msegui-examples)
 - [MSEgui studies](https://codeberg.org/rchastain/msegui-studies)
 
-### Other
+### Utilities
 
+- [PCC (Pascal code cleaner)](https://codeberg.org/rchastain/pcc)
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf)
 - [QBasic music to MIDI file](https://gitlab.com/rchastain/qbasic-music-to-midi-file)
 - [SDL2 Music Player](https://codeberg.org/rchastain/sdl2-musicplayer)
