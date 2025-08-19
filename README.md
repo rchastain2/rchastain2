@@ -70,6 +70,7 @@ My programming projects, categorized by language and topic.
 - [Eschecs](https://codeberg.org/rchastain/eschecs)
 - [Feuerstein multiplatform](https://codeberg.org/rchastain/feuerstein)
 - [Hopeless](https://codeberg.org/rchastain/hopeless-lazarus)
+- [IBChess](https://codeberg.org/rchastain/ibchess)
 - [Lazarus checkers](https://codeberg.org/rchastain/lazarus-checkers)
 - [Mater](https://codeberg.org/rchastain/mater)
 - [Nero](https://gitlab.com/rchastain/nero5)
