@@ -21,6 +21,7 @@ My programming projects, categorized by language and topic.
 ### Chess (and other board games)
 
 - [Aquilon](https://codeberg.org/rchastain/aquilon)
+- [cairo-board](https://github.com/rchastain2/cairo-board/tree/master)
 - [Hippocampe](https://codeberg.org/rchastain/hippocampe)
 - [Mérelles](https://codeberg.org/rchastain/merelles)
 - [Sachy](https://codeberg.org/rchastain/sachy)
