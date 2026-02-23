@@ -70,6 +70,7 @@ My programming projects, categorized by language and topic.
 - [Durandal](https://codeberg.org/rchastain/durandal)
 - [Eschecs](https://codeberg.org/rchastain/eschecs)
 - [Feuerstein multiplatform](https://codeberg.org/rchastain/feuerstein)
+- [Fischer random chess start positions](https://codeberg.org/rchastain/echecs-aleatoires-fischer)
 - [Hopeless](https://codeberg.org/rchastain/hopeless-lazarus)
 - [IBChess](https://codeberg.org/rchastain/ibchess)
 - [Lazarus checkers](https://codeberg.org/rchastain/lazarus-checkers)
