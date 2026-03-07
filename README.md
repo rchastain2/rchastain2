@@ -94,6 +94,7 @@ My programming projects, categorized by language and topic.
 - [Easter date](https://codeberg.org/rchastain/easter-date)
 - [Échecs aléatoires de Fischer](https://codeberg.org/rchastain/echecs-aleatoires-fischer)
 - [Fleur de lys](https://codeberg.org/rchastain/fleur-de-lys)
+- [Text calendar](https://codeberg.org/rchastain/text-calendar)
 - [Theodorus spiral](https://codeberg.org/rchastain/theodorus-spiral)
 
 ### MSEgui
