@@ -1,6 +1,6 @@
 # My projects
 
-My programming projects, categorized by language and topic.
+List (for myself) of my projects, categorized by language and topic.
 
 ## Basic
 
