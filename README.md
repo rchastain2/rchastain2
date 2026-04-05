@@ -87,11 +87,11 @@
 ### Utilities
 - [PCC (Pascal code cleaner)](https://codeberg.org/rchastain/pcc)
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf)
-- [QBasic music to MIDI file](https://gitlab.com/rchastain/qbasic-music-to-midi-file)
-- [SDL2 Music Player](https://codeberg.org/rchastain/sdl2-musicplayer)
 
 <!--
 - [Hopeless](https://codeberg.org/rchastain/hopeless-lazarus)
 - [IBChess](https://codeberg.org/rchastain/ibchess)
 - [SwinGame examples](https://github.com/rchastain2/swingame-pascal-examples)
+- [QBasic music to MIDI file](https://gitlab.com/rchastain/qbasic-music-to-midi-file)
+- [SDL2 Music Player](https://codeberg.org/rchastain/sdl2-musicplayer)
 -->
