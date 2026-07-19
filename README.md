@@ -9,7 +9,11 @@
 - [FreeBASIC Miner](https://codeberg.org/rchastain/freebasic-miner)
 
 ### Mathematics
+- [Easter date](https://codeberg.org/rchastain/easter-date)
 - [Theodorus spiral](https://codeberg.org/rchastain/theodorus-spiral-freebasic)
+
+### Music
+- [FreeBASIC sfx library examples](https://codeberg.org/rchastain/fbsfx-library-examples)
 
 ## C
 
@@ -29,13 +33,25 @@
 - [Easter date](https://codeberg.org/rchastain/easter-date)
 - [Theodorus spiral](https://codeberg.org/rchastain/theodorus-spiral-c)
 
+### Music
+- [miniaudio Music Player](https://codeberg.org/rchastain/miniaudio-musicplayer)
+
 ### Utilities
 - [Littré](https://codeberg.org/rchastain/littre)
+- [xscreensaver example](https://github.com/rchastain2/xscreensaver-example)
+
+## COBOL
+
+### Mathematics
+- [Easter date](https://codeberg.org/rchastain/easter-date)
 
 ## LaTeX
 
+- [Allemand](https://github.com/rchastain2/allemand)
 - [Litanies du Sacré-Cœur](https://codeberg.org/rchastain/litanies)
+- [Mini-livres](https://github.com/rchastain2/mini-livres)
 - [Pâques](https://codeberg.org/rchastain/paques)
+- [Poèmes](https://github.com/rchastain2/poemes)
 
 ## Lua
 
@@ -69,29 +85,39 @@
 - [Ghost Invasion](https://gitlab.com/rchastain/ghost-invasion)
 - [Snake ptcGraph](https://codeberg.org/rchastain/snake-ptcgraph)
 - [SplashKit examples](https://gitlab.com/rchastain/splashkit-pascal-examples)
+- [SwinGame examples](https://github.com/rchastain2/swingame-pascal-examples)
 
 ### Mathematics
+- [Astronomy](https://github.com/rchastain2/pascal-astronomy)
+- [Astronomy links](https://github.com/rchastain2/astronomy-links)
 - [Bouncing balls](https://github.com/rchastain2/collisions)
 - [Cairo examples](https://github.com/rchastain2/cairo-examples)
+- [CALFAQ Pascal](https://github.com/rchastain2/calfaq-pascal)
 - [Easter date](https://codeberg.org/rchastain/easter-date)
 - [Échecs aléatoires de Fischer](https://codeberg.org/rchastain/echecs-aleatoires-fischer)
 - [Fleur de lys](https://codeberg.org/rchastain/fleur-de-lys)
 - [Text calendar](https://codeberg.org/rchastain/text-calendar)
 - [Theodorus spiral](https://codeberg.org/rchastain/theodorus-spiral)
 
-### MSEgui
+### MSEide+MSEgui
+- [MSEide+MSEgui command-line installer](https://github.com/rchastain2/installmse)
 - [MSEgui chessboard](https://github.com/rchastain2/msegui-chessboard-2)
 - [MSEgui examples](https://codeberg.org/rchastain/msegui-examples)
 - [MSEgui studies](https://codeberg.org/rchastain/msegui-studies)
+- [Simple GUI for MPlayer](https://codeberg.org/rchastain/msegui-studies/src/branch/master/mplayerdemo)
+
+### Music
+- [mml2mid](https://github.com/rchastain2/mml2mid)
+- [PascalAudio Music Player](https://github.com/rchastain2/pascalaudio-musicplayer)
+- [SDL2 Music Player](https://codeberg.org/rchastain/sdl2-musicplayer)
 
 ### Utilities
+- [Pascal Tools](https://github.com/rchastain2/pascal-tools)
 - [PCC (Pascal code cleaner)](https://codeberg.org/rchastain/pcc)
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf)
+- [xscreensaver example](https://github.com/rchastain2/xscreensaver-example-pascal)
 
 <!--
 - [Hopeless](https://codeberg.org/rchastain/hopeless-lazarus)
 - [IBChess](https://codeberg.org/rchastain/ibchess)
-- [SwinGame examples](https://github.com/rchastain2/swingame-pascal-examples)
-- [QBasic music to MIDI file](https://gitlab.com/rchastain/qbasic-music-to-midi-file)
-- [SDL2 Music Player](https://codeberg.org/rchastain/sdl2-musicplayer)
 -->
