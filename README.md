@@ -88,6 +88,7 @@
 - [SwinGame examples](https://github.com/rchastain2/swingame-pascal-examples)
 
 ### Mathematics
+- [AGGPas examples](https://github.com/rchastain2/agg-examples)
 - [Astronomy](https://github.com/rchastain2/pascal-astronomy)
 - [Astronomy links](https://github.com/rchastain2/astronomy-links)
 - [Bouncing balls](https://github.com/rchastain2/collisions)
