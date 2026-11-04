@@ -22,13 +22,9 @@
 - [cairo-board](https://github.com/rchastain2/cairo-board)
 - [Danican](https://codeberg.org/rchastain/danican)
 - [Hippocampe](https://codeberg.org/rchastain/hippocampe)
-- [Mérelles](https://codeberg.org/rchastain/merelles)
 - [Sachy](https://codeberg.org/rchastain/sachy)
-- [Vanilla Chess](https://codeberg.org/rchastain/vanilla-chess)
 - [Velena (Connect Four)](https://codeberg.org/rchastain/velena)
-- [WinBoard protocol driver](https://codeberg.org/rchastain/winboard-protocol-driver)
 - [xcheckers](https://codeberg.org/rchastain/xcheckers)
-- [xdames](https://codeberg.org/rchastain/xdames)
 - [Zoe](https://github.com/rchastain/zoe)
 
 ### Mathematics
@@ -50,12 +46,8 @@
 
 ## LaTeX
 
-- [Allemand](https://github.com/rchastain2/allemand)
 - [Litanies du Sacré-Cœur](https://codeberg.org/rchastain/litanies)
 - [Mini-livres](https://github.com/rchastain2/mini-livres)
-- [Pâques](https://codeberg.org/rchastain/paques)
-- [Pâques COBOL](https://github.com/rchastain2/paques-cobol)
-- [Poèmes](https://github.com/rchastain2/poemes)
 
 ## Lua
 
@@ -81,13 +73,12 @@
 - [Eschecs 6](https://codeberg.org/rchastain/eschecs-6)
 - [Feuerstein multiplatform](https://codeberg.org/rchastain/feuerstein)
 - [Fischer random chess start positions](https://codeberg.org/rchastain/echecs-aleatoires-fischer)
-- [Lazarus checkers](https://codeberg.org/rchastain/lazarus-checkers)
 - [Marelle](https://github.com/rchastain2/marelle)
 - [Mater](https://codeberg.org/rchastain/mater)
 - [Moustique (JSSchach)](https://codeberg.org/rchastain/moustique)
-- [Nero](https://gitlab.com/rchastain/nero5)
 - [OpenCritter](https://codeberg.org/rchastain/open-critter)
 - [Velena (Connect Four)](https://codeberg.org/rchastain/velena)
+- [WinBoard protocol driver](https://codeberg.org/rchastain/moustique-cecp)
 - [Zzzzzz](https://codeberg.org/rchastain/zzzzzz)
 
 ### Games
@@ -100,7 +91,6 @@
 - [AGGPas examples](https://github.com/rchastain2/agg-examples)
 - [Astronomy](https://github.com/rchastain2/pascal-astronomy)
 - [Astronomy links](https://github.com/rchastain2/astronomy-links)
-- [Bouncing balls](https://github.com/rchastain2/collisions)
 - [Cairo examples](https://github.com/rchastain2/cairo-examples)
 - [CALFAQ Pascal](https://github.com/rchastain2/calfaq-pascal)
 - [Easter date](https://codeberg.org/rchastain/easter-date)
