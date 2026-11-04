@@ -20,12 +20,14 @@
 ### Chess (and other board games)
 - [Aquilon](https://codeberg.org/rchastain/aquilon)
 - [cairo-board](https://github.com/rchastain2/cairo-board)
+- [Danican](https://codeberg.org/rchastain/danican)
 - [Hippocampe](https://codeberg.org/rchastain/hippocampe)
 - [Mérelles](https://codeberg.org/rchastain/merelles)
 - [Sachy](https://codeberg.org/rchastain/sachy)
-- [Vanilla Chess](https://talkchess.com/viewtopic.php?t=78988)
+- [Vanilla Chess](https://codeberg.org/rchastain/vanilla-chess)
 - [Velena (Connect Four)](https://codeberg.org/rchastain/velena)
 - [WinBoard protocol driver](https://codeberg.org/rchastain/winboard-protocol-driver)
+- [xcheckers](https://codeberg.org/rchastain/xcheckers)
 - [xdames](https://codeberg.org/rchastain/xdames)
 - [Zoe](https://github.com/rchastain/zoe)
 
@@ -44,6 +46,7 @@
 
 ### Mathematics
 - [Easter date](https://codeberg.org/rchastain/easter-date)
+- [Moveable feasts](https://github.com/rchastain2/paques-cobol)
 
 ## LaTeX
 
@@ -51,6 +54,7 @@
 - [Litanies du Sacré-Cœur](https://codeberg.org/rchastain/litanies)
 - [Mini-livres](https://github.com/rchastain2/mini-livres)
 - [Pâques](https://codeberg.org/rchastain/paques)
+- [Pâques COBOL](https://github.com/rchastain2/paques-cobol)
 - [Poèmes](https://github.com/rchastain2/poemes)
 
 ## Lua
@@ -63,21 +67,26 @@
 - [Easter date](https://codeberg.org/rchastain/easter-date)
 
 ### Utilities
-- [Pascal Code Cleaner](https://codeberg.org/rchastain/pcc-lua)
+- [PCC (Pascal code cleaner)](https://codeberg.org/rchastain/pcc-lua)
 
 ## Pascal
 
 ### Chess (and other board games)
 - [Alouette](https://codeberg.org/rchastain/alouette)
+- [Chess image](https://github.com/rchastain2/chess-image-2)
 - [CookieCat](https://codeberg.org/rchastain/cookiecat)
+- [Dames](https://codeberg.org/rchastain/dames)
 - [Durandal](https://codeberg.org/rchastain/durandal)
 - [Eschecs](https://codeberg.org/rchastain/eschecs)
+- [Eschecs 6](https://codeberg.org/rchastain/eschecs-6)
 - [Feuerstein multiplatform](https://codeberg.org/rchastain/feuerstein)
 - [Fischer random chess start positions](https://codeberg.org/rchastain/echecs-aleatoires-fischer)
 - [Lazarus checkers](https://codeberg.org/rchastain/lazarus-checkers)
+- [Marelle](https://github.com/rchastain2/marelle)
 - [Mater](https://codeberg.org/rchastain/mater)
-- [Nero](https://gitlab.com/rchastain/nero5)
 - [Moustique (JSSchach)](https://codeberg.org/rchastain/moustique)
+- [Nero](https://gitlab.com/rchastain/nero5)
+- [OpenCritter](https://codeberg.org/rchastain/open-critter)
 - [Velena (Connect Four)](https://codeberg.org/rchastain/velena)
 - [Zzzzzz](https://codeberg.org/rchastain/zzzzzz)
 
@@ -87,7 +96,7 @@
 - [SplashKit examples](https://gitlab.com/rchastain/splashkit-pascal-examples)
 - [SwinGame examples](https://github.com/rchastain2/swingame-pascal-examples)
 
-### Mathematics
+### Mathematics & graphics
 - [AGGPas examples](https://github.com/rchastain2/agg-examples)
 - [Astronomy](https://github.com/rchastain2/pascal-astronomy)
 - [Astronomy links](https://github.com/rchastain2/astronomy-links)
@@ -102,6 +111,7 @@
 
 ### MSEide+MSEgui
 - [MSEide+MSEgui command-line installer](https://github.com/rchastain2/installmse)
+- [MSEbuild](https://codeberg.org/rchastain/msebuild)
 - [MSEgui chessboard](https://github.com/rchastain2/msegui-chessboard-2)
 - [MSEgui examples](https://codeberg.org/rchastain/msegui-examples)
 - [MSEgui studies](https://codeberg.org/rchastain/msegui-studies)
@@ -116,6 +126,7 @@
 - [Pascal Tools](https://github.com/rchastain2/pascal-tools)
 - [PCC (Pascal code cleaner)](https://codeberg.org/rchastain/pcc)
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf)
+- [RPM Manager](https://codeberg.org/rchastain/rpm-manager)
 - [xscreensaver example](https://github.com/rchastain2/xscreensaver-example-pascal)
 
 <!--
