@@ -56,8 +56,6 @@ Programs, mostly in Pascal, around chess, board games, mathematics and music. Mo
 
 ## Utilities
 - [Littré (French dictionary viewer)](https://codeberg.org/rchastain/littre) — C
-- [Pascal Tools](https://github.com/rchastain2/pascal-tools) — Pascal
-- PCC (Pascal code cleaner) — [Lua](https://codeberg.org/rchastain/pcc-lua), [Pascal](https://codeberg.org/rchastain/pcc)
 - [PCF (Pascal code formatter)](https://codeberg.org/rchastain/pcf) — Pascal
 - [RPM Manager (package manager front end for Mageia)](https://codeberg.org/rchastain/rpm-manager) — Pascal
 - xscreensaver example — [C](https://github.com/rchastain2/xscreensaver-example), [Pascal](https://github.com/rchastain2/xscreensaver-example-pascal)
